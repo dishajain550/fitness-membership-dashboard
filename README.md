@@ -3,6 +3,7 @@
 This project is an **interactive business intelligence dashboard** designed to analyze **gym membership revenue, payment methods, and member demographics** for better operational decision-making.
 
 ---
+<img width="937" height="382" alt="image" src="https://github.com/user-attachments/assets/ec245089-b6eb-4a54-993b-0eee1be1b937" />
 
 ## 🎯 Dashboard Objectives
 
